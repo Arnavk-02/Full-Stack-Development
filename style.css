@@ -1,0 +1,91 @@
+body{
+
+    margin-top: 0%;
+}
+div.bimage img{
+    width: 100%;
+    height: 650px;
+    margin-right: 7%;
+    margin-top: 1%;
+    margin-left: 0%;
+    object-fit: cover;
+    border-radius: 3%;
+}
+#navbar{
+    padding: 10px;
+    margin-top: 1%;
+    border: 10px;
+    border-color: blue;
+    width: 20%;
+    padding-left: 10px;
+    text-align: center;
+    
+}
+#logo{
+    height: 70px;
+    border: 10px;
+    margin-right: 40%;  
+}
+#nycapt{
+    width: 50%;
+    margin-top: 1%;
+    font-style: italic;
+    text-align: center;
+    padding-left: 50px;
+    font-size: large;
+    color: rgb(17, 42, 76);
+}
+#landlord{
+    width: 10%;
+    margin-top: 2%;
+    text-align: center;
+    font-style: italic;
+    color: rgb(17, 42, 76);
+}
+#business{
+    width: 10%;
+    margin-top: 2%;
+    margin-left: 1%;
+    text-align: center;
+    font-style: italic;
+    object-fit: cover;
+    color: rgb(17, 42, 76);
+}
+#sign{
+    width: 3%;
+    padding-left: 10px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 2%;
+    margin-left: 0%;
+}
+div p1{
+    background-color: royalblue;
+    color: aliceblue;
+    
+}
+#head{
+    display: flex;
+}
+
+.b1{
+    text-align: center;
+}
+
+#footer{
+    background-color: ghostwhite;
+    margin-top: 5%;
+    padding-left: 0%;
+    padding-top: 2%;
+}
+#copyright{
+    color: rgb(17, 42, 76);
+    margin-left: 3%;
+}
+#footerlink{
+    list-style: none;
+    margin-left: 0%;
+}
+#C{
+    margin-left: 0%;
+}
